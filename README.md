@@ -26,3 +26,9 @@ There are several functions that can make changes or access the phonebook. They 
 [Latest Python](https://www.python.org/downloads/)</br>
 [Latest Git](https://git-scm.com/download)</br>
 [Useful Python Examples](https://www.w3schools.com/python/)
+
+# Future Work
+
+* Add a sorting function alphabetize order the phone book
+* Add to the find function search for name by number
+* Add a GUI for easier use by user
