@@ -11,7 +11,7 @@ There are several functions that can make changes or access the phonebook. They 
  5. Retrieve from File
  6. Quit
 
-[Software Demo Video](https://youtu.be/VCAIEuk5DR4)
+[Software Demo Video]()
 
 # Development Environment
 
